@@ -9,7 +9,7 @@ Mapping ITI Database By three ways of mapping
 
 ## Screenshots
 
-![ERD Diagram](https://drive.google.com/file/d/1RXgyoUXapTOHhG3YNLYqv6IZEpD9cx5/view?usp=drive_link)
+![ERD Diagram](https://drive.google.com/uc?export=view&id=1RXgyoUXapT_OHhG3YNLYqv6IZEpD9cx5)
+![Schema](https://drive.google.com/uc?export=view&id=1RmcS47aS7cKhyFfxD5Va20dt_VjTmjv)
 
-![Schema](https://drive.google.com/file/d/1RmcS47aS7cKhyFfxD5Va20dt_VjTmjv/view?usp=drive_link)
 
